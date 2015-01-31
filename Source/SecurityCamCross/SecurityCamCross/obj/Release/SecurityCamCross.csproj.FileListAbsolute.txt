@@ -1,0 +1,9 @@
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\bin\Release\SecurityCamCross.exe
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\bin\Release\SecurityCamCross.pdb
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\bin\Release\Uploader.dll
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\SecurityCamCross.Form1.resources
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\SecurityCamCross.Properties.Resources.resources
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\SecurityCamCross.csproj.GenerateResource.Cache
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\SecurityCamCross.exe
+C:\Documents and Settings\simon.VISION-511244B3\My Documents\Visual Studio 2008\Projects\SecurityCamCross\SecurityCamCross\obj\Release\SecurityCamCross.pdb
